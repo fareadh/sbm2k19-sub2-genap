@@ -8,7 +8,7 @@ This code is for keypad testing in Maple Mini using Arduino IDE
 * Vicko Pranowo (16/394966/TK/44258)
 
 ## Simulation Video 
-![alt text](keypadtest.mp4)
+![alt text](keypad.gif)
 
 ## Schematic
 ![alt text](keypad.jpg)
