@@ -1,4 +1,4 @@
-# KEYPAD FOR MAPLE MINI
+# JOYSTICK FOR MAPLE MINI
 This code is for joystick testing in Maple Mini using Arduino IDE
 
 ## Contributors:

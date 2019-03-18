@@ -1,4 +1,4 @@
-# KEYPAD FOR MAPLE MINI
+# KEYPAD AND SEVEN SEGMENT FOR MAPLE MINI
 This code is for keypad and 7 segment testing in Maple Mini using Arduino IDE
 
 ## Contributors:
