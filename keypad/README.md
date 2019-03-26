@@ -11,4 +11,4 @@ This code is for keypad testing in Maple Mini using Arduino IDE
 ![alt text](keypad.gif)
 
 ## Schematic
-![alt text](keypad.jpg)
+![alt text](keypad.png)

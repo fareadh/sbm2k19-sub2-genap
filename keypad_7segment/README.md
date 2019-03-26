@@ -11,4 +11,4 @@ This code is for keypad and 7 segment testing in Maple Mini using Arduino IDE
 ![alt text](test.gif)
 
 ## Schematic
-![alt text](test.jpg)
+![alt text](test.png)

@@ -11,4 +11,4 @@ This code is for joystick testing in Maple Mini using Arduino IDE
 ![alt text](test.gif)
 
 ## Schematic
-![alt text](test.jpg)
+![alt text](test.png)
