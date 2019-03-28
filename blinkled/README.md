@@ -1,4 +1,4 @@
-# JOYSTICK FOR MAPLE MINI
+# BLINK LED FOR MAPLE MINI
 This code is for blink LED testing in Maple Mini using Arduino IDE
 
 ## Contributors:
