@@ -1,4 +1,4 @@
-# KEYPAD AND SEVEN SEGMENT FOR MAPLE MINI
+# REALTIME CLOCK FOR MAPLE MINI
 This code is for Realtime Clock Module testing in Maple Mini using Arduino IDE
 
 ## Contributors:
