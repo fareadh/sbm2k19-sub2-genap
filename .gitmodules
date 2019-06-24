@@ -1,0 +1,3 @@
+[submodule "SecondHalfTerm"]
+	path = SecondHalfTerm
+	url = https://github.com/kevinaldianw/Arduino_RTOS_Project
